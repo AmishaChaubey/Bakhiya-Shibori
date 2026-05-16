@@ -8,7 +8,7 @@ import {
   FaPhoneAlt,
   FaEnvelope,
 } from "react-icons/fa";
-import logo from '../../assets/bs logo.png';
+import logo from '../../assets/BS-LOGO.png';
 
 const Footer = () => {
   return (

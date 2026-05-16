@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { X, Send, Sparkles } from "lucide-react";
-import logo from "../../assets/bs logo.png";
+import logo from "../../assets/BS-LOGO.png";
 
 const injectFonts = () => {
   if (typeof document === "undefined") return;
