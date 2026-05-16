@@ -326,7 +326,7 @@ const Navbar = () => {
         /* ─── Responsive tweaks ─────────────────────────── */
         @media (max-width: 480px) {
           .nb-inner { padding: 0 16px; }
-          .nb-logo img { height: 52px; }
+          .nb-logo img { height: 72px; }
         }
       `}</style>
 
