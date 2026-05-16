@@ -147,7 +147,7 @@ const Hero = () => {
 
         .hero-section {
           position: relative;
-          min-width: 100%;
+     
           min-height: 100vh;
           overflow: hidden;
     
@@ -169,7 +169,7 @@ const Hero = () => {
         .slide-bg img {
           width: 100%;
           height: 100%;
-          object-fit: cover;y
+          object-fit: cover;
 
           display: block;
         }
