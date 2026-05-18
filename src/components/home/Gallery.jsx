@@ -833,10 +833,6 @@ const Gallery = () => {
                   </div>
                 </div>
 
-                <button className="gl-lb-btn">
-                  Get a Quote
-                  <ArrowRight size={14} strokeWidth={2} />
-                </button>
               </div>
             </div>
           </div>
