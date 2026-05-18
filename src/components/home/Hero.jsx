@@ -527,7 +527,7 @@ const Hero = () => {
         }
       `}</style>
 
-      <section id="home" className="hero-section">
+      <section id="#home" className="hero-section">
 
 
         {/* BG Images */}

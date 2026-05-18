@@ -284,8 +284,8 @@ const Footer = () => {
               <div className="ft-contact-item">
                 <div className="ft-contact-icon"><FaMapMarkerAlt /></div>
                 <span className="ft-contact-text">
-                  Captain Market, Village Gharoli<br />
-                  Mayur Vihar Phase-3, Delhi – 110096
+                  B-128,B Block,Sector 2<br />
+                  Noida,Uttar Pradesh
                 </span>
               </div>
               <div className="ft-contact-item">
@@ -294,7 +294,7 @@ const Footer = () => {
               </div>
               <div className="ft-contact-item">
                 <div className="ft-contact-icon"><FaEnvelope /></div>
-                <span className="ft-contact-text">info@bakhiyashibori.com</span>
+                <span className="ft-contact-text">bakhiyaishibori@gmail.com</span>
               </div>
             </div>
           </div>

@@ -497,7 +497,7 @@ const Contact = () => {
                                     </div>
                                     <div>
                                         <div className="row-label">Email Address</div>
-                                        <div className="row-value">info@bakhiyashibori.com</div>
+                                        <div className="row-value">bakhiyaishibori@gmail.com</div>
                                     </div>
                                 </div>
 
@@ -507,7 +507,7 @@ const Contact = () => {
                                     </div>
                                     <div>
                                         <div className="row-label">Studio Address</div>
-                                        <div className="row-value">Captain Market, Village Gharoli<br />Mayur Vihar Phase-3, Delhi – 110096</div>
+                                        <div className="row-value">B-128,B Block,<br />Sector 2,Noida,Uttar Pradesh</div>
                                     </div>
                                 </div>
 

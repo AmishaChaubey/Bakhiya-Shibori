@@ -334,9 +334,9 @@ const Navbar = () => {
         <div className="nb-inner">
 
           {/* Logo */}
-          <div className="nb-logo" onClick={() => navigate('/')} role="button" aria-label="Go to homepage">
+        <a href='#home'>  <div className="nb-logo" onClick={() => navigate('/')} role="button" aria-label="Go to homepage">
             <img src={logo} alt="Bakhiya Shibori Logo" />
-          </div>
+          </div></a>
 
           {/* Desktop Navigation */}
           <nav className="nb-desktop" aria-label="Main navigation">
