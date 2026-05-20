@@ -8,6 +8,8 @@ import Contact from './components/home/Contact'
 import Footer from './components/home/Footer'
 import ColorCollection from './components/home/ColorCollection'
 import Navbar from './components/home/Navbar'
+import CallIcon from './components/Call'
+import WhatsAppIcon from './components/Icon'
 
 const App = () => {
   return (
@@ -20,6 +22,8 @@ const App = () => {
       <Gallery/>
       <Contact/>
       <Footer/>
+      <CallIcon/>
+      <WhatsAppIcon/>
     </div>
   )
 }
