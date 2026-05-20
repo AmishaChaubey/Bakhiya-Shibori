@@ -487,7 +487,7 @@ const Contact = () => {
                                     </div>
                                     <div>
                                         <div className="row-label">Phone Number</div>
-                                        <div className="row-value">+91 97173 37683</div>
+                                        <div className="row-value">+91 9650106300</div>
                                     </div>
                                 </div>
 
